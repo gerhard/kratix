@@ -1,0 +1,8 @@
+{
+  "name": "kratix",
+  "sdk": "go",
+  "root": "../",
+  "dependencies": [
+    "github.com/sagikazarmark/daggerverse/go@82024bb95d58d29665ad9ab1457f9f98a7111d10"
+  ]
+}
